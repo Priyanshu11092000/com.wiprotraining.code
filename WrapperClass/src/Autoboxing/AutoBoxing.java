@@ -11,12 +11,12 @@ public class AutoBoxing {
 		Integer obj = new Integer(a);
 		//through Autoboxing
 		Integer obj1 = a;
-		Integer obj2 = a;
+		
 		
 		System.out.println(a);
 		System.out.println(obj);
 		System.out.println(obj1);
-		System.out.println(obj2);
+		
 		
 	}
 
